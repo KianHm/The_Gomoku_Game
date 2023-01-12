@@ -1,6 +1,4 @@
-#CS 2340.501 Project
-#Alparslan Tarik Duru, Seyed Kian Hakim
-#12/1/2022
+
 .data
 player1: 	.byte 'O'
 player2: 	.byte 'X'
