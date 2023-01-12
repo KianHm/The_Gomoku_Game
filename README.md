@@ -1,1 +1,3 @@
 # The_Gomoku_Game
+The project is about a game called Gomoku. It contains a board and two or more players. (In our project we used two players)
+The game board contains 15 rows and 15 columns. The game is an abstract strategy board game. The players must try to mark 5 slots on the board in a row, either diagonal, horizontal, or vertical. The player who gets five slots on the board in a row wins the game. There are some rules in the game. The players must play in order, which means that each player can have only one move and the other player continues. Also, players can’t choose a slot that has already been chosen by the other player. If all the slots are chosen by the players, and either of the players have gotten five in a row, the game has no winner.
